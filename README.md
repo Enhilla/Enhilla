@@ -10,5 +10,3 @@ Hi there 👋
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enhilla&layout=compact&theme=radical)
 
-## Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Enhilla&theme=onedark)
